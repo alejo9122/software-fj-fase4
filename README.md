@@ -29,5 +29,8 @@ Requiere Python 3.8 o superior. No usa librerías externas. Los eventos y errore
 - **Excepciones:** personalizadas, `try/except`, `try/except/else`, `try/except/finally` y encadenamiento con `raise ... from`.
 - **Logs:** `logging` escribe todos los eventos y errores en `logs/sistema.log`.
 
+## Documentación del código
+Todas las líneas de código incluyen un comentario que explica su función, además de los docstrings de cada clase y método.
+
 ## Autor
 Alejandro Felipe Mazo Ocampo. Por motivos personales solicitó un plazo para presentar esta actividad colaborativa, por lo que la desarrolló de forma individual, asumiendo todos los roles del grupo.
